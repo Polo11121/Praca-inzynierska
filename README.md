@@ -42,7 +42,7 @@ Aktorzy:
 
     -Użytkownik zarejestrowany i zalogowany
     -Użytkownik systemu
-    -Admin strony (Sprawdza zgłoszonych użytkowników i podejmuje odpowiednie środki np. ban    dla użytkownika który który posiada nieodpowiednie treści na profilu)
+    -Admin strony (Sprawdza zgłoszonych użytkowników i podejmuje odpowiednie środki np. ban dla użytkownika który który posiada nieodpowiednie treści na profilu)
 
 Przypadki użycia:  
     Załóż konto  
