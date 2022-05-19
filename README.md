@@ -4,6 +4,7 @@ Opis pracy inżynierskiej
 
 Webowy portal randkowy “nazwa robocza”
 
+
 Serwis randkowego “nazwa robocza” służy do nawiązywania relacji między osobami z całego świata, jest to możliwe dzięki głównej funkcjonalności “Swipe Left-Right”, która pozwala na dopasowanie użytkowników na podstawie wybranych kryteriów wyszukiwania, takich jak płeć, wiek, lokalizacja i zainteresowania. Działanie funkcjonalności polega na pojawieniu się karty profilu użytkownika z podstawowymi informacjami - zdjęcie, imię, wiek, krótki opis i możliwość przesuwania w lewą lub prawą stronę. Przesunięcie w prawo wykazuje nasze zainteresowanie użytkownikiem, a jeżeli użytkownik też przesuną nas w prawo, zostaje  zatwierdzone dopasowanie użytkowników. Przesunięcie w lewo oznacza, że nie jesteśmy daną osobą zainteresowani i dopasowanie nie zostanie zatwierdzone, ale jeżeli użytkownik przesunął nas w prawo  jego profil trafi do oddzielnej zakładki, w której w każdej chwili możemy zobaczyć profile osób które są nami zainteresowane. Dopasowane osoby trafiają do zakładki “Dopasowani” i mogą dalej rozwijać swoją relację poprzez funkcjonalność live chat, w której osoby mogą prowadzić ze sobą konwersacje w czasie rzeczywistym.
 Żeby korzystać z kluczowych funkcjonalności aplikacji użytkownik będzie musiał mieć stworzone konto i być zalogowany. Utworzenie konta i korzystanie z aplikacji jest w pełni darmowe. Łatwo możemy stwierdzić czy jesteśmy zainteresowani danym użytkownikiem i chcemy kontynuować relację, dzięki rozbudowanej funkcji profilu użytkownika, na którym znajdują się podstawowe informacje jak wiek, imię, zainteresowania i zdjęcia, lub posty ze zdjęciem i opisem, dzięki czemu możemy poznać drugą osobę. Każdy użytkownik może dowolnie edytować swój profil i przeglądać profile innych użytkowników na których może wykazać zainteresowanie drugą osobą i poprosić o dopasowanie, ponieważ niektóre funkcjonalności takie jak live chat czy komentowanie postów użytkownika może wykonywać użytkownik tylko do niego dopasowany. Komentarze pod swoimi postami widzi tylko właściciel postu i osoba, która komentarz wystawiła. Jeżeli nie chcemy polegać na algorytmie aplikacji lub na podstawie naszych kryteriów wyszukiwania możemy też przeglądać profile użytkowników z naszej okolicy. Na ekranie znajduje się zakładka z dodatkowymi użytkownikami proponowanymi przez algorytm. Aplikacja wyznaje zasadę przeciwko body-shaming i mowie nienawiści i trzyma się niej, dzięki możliwości zgłaszania użytkowników nieprzestrzegających tych zasady i pracy administratorów, którzy weryfikują takie zgłoszenia i podejmują odpowiednie kroki jak np. zablokowanie konta. 
 
@@ -44,6 +45,7 @@ Dopasowane osoby: Lista osób, które przesunęły nas w prawo i które my przes
 
 Panel administratora: Panel na którym administrator może przeglądać i weryfikować zgłoszenia i podejmować odpowiednie kroki.  
 
+
 Aktorzy: 
 
     -Użytkownik zalogowany  
@@ -66,5 +68,7 @@ Przypadki użycia:
 •	Zweryfikuj zgłoszenie  
 •	Zablokuj użytkownika  
 
+
 Diagram przypadków użycia
- 
+ ![Untitled Diagram](https://user-images.githubusercontent.com/87152087/169404244-fcbbecda-4eb9-4411-8f55-f0a9355f9cc9.jpg)
+
