@@ -1,5 +1,5 @@
 # Praca-inzynierska
-Strony: 
+Strony:  
 Strona główna  
 Osoby w okolicy/Proponowani  
 Zainteresowane tobą osoby  
