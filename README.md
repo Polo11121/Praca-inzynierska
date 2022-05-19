@@ -71,5 +71,5 @@ Przypadki użycia:
 
 Diagram przypadków użycia
 
-![image](https://user-images.githubusercontent.com/87152087/169408870-9b7d66e3-d9ae-4fd0-8e00-22dd1a0828ee.png)
+![image](https://user-images.githubusercontent.com/87152087/169409317-418fb339-34e5-410c-8b55-6475fc6fa9af.png)
 
