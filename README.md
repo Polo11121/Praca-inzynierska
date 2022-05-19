@@ -1,16 +1,16 @@
 # Praca-inzynierska
 Strony: 
-Strona główna
-Osoby w okolicy/Proponowani
-Zainteresowane tobą osoby
-Logowanie 
-Rejestracja
-Profil użytkownika
-Zdjęcia użytkownika
-Lista Live Chatów
-Live Chat
-“Swipe left right”
-Dopasowane osoby
+Strona główna  
+Osoby w okolicy/Proponowani  
+Zainteresowane tobą osoby  
+Logowanie  
+Rejestracja  
+Profil użytkownika  
+Zdjęcia użytkownika  
+Lista Live Chatów  
+Live Chat  
+“Swipe left right”  
+Dopasowane osoby  
 
 Osoby w okolicy/Proponowani: Profile użytkowników z twojej okolicy, lub dopasowanych przez algorytm
 
