@@ -70,5 +70,7 @@ Przypadki użycia:
 
 
 Diagram przypadków użycia
+
+
  ![Untitled Diagram](https://user-images.githubusercontent.com/87152087/169404244-fcbbecda-4eb9-4411-8f55-f0a9355f9cc9.jpg)
 
