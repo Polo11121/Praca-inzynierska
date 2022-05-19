@@ -44,15 +44,15 @@ Aktorzy:
     -Użytkownik systemu
     -Admin strony (Sprawdza zgłoszonych użytkowników i podejmuje odpowiednie środki np. ban    dla użytkownika który który posiada nieodpowiednie treści na profilu)
 
-Przypadki użycia:
-    Załóż konto
-    Edytuj dane konta
-    Dodaj zdjęcie
-    Dodaj komentarz do zdjęcia
-    Przeglądaj profil użytkownika
-    Przeglądaj profile użytkowników
-    Polub zdjęcie
-    Napisz wiadomość
-    Edytuj preferencje
-    Dopasuj użytkownika 
-    Przeglądaj dopasowanych użytkowników
+Przypadki użycia:  
+    Załóż konto  
+    Edytuj dane konta  
+    Dodaj zdjęcie  
+    Dodaj komentarz do zdjęcia  
+    Przeglądaj profil użytkownika  
+    Przeglądaj profile użytkowników  
+    Polub zdjęcie  
+    Napisz wiadomość  
+    Edytuj preferencje  
+    Dopasuj użytkownika   
+    Przeglądaj dopasowanych użytkowników  
